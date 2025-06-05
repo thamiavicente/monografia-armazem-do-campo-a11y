@@ -26,7 +26,7 @@ Realizar uma análise acessível de um website real, identificando as funcionali
 ## Demonstração
 
 * [Site original (Shopify)](https://armazemdocampo.shop/)
-* [Preview do trabalho com melhorias](https://thamiavicente.github.io/monografia-armazem-do-campo-a11y/Armaz%C3%A9m%20do%20Campo%20On-Line%20%E2%80%93%20Armazem%20do%20Campo%20On-Line.html)
+* [Preview do trabalho com melhorias](https://thamiavicente.github.io/monografia-armazem-do-campo-a11y/src/Armaz%C3%A9m%20do%20Campo%20On-Line%20%E2%80%93%20Armazem%20do%20Campo%20On-Line.html)
 * [Monografia em PDF](https://www.linkedin.com/in/thamiavicente/overlay/1747048367126/single-media-viewer/?profileId=ACoAAAayMlUB4-lXdoTeRv-Wq64sy6TkCZ6UMBE)
 
 ## Funcionalidades
